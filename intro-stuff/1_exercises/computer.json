@@ -1,0 +1,10 @@
+{
+    "brand": "ACER",
+    "key": "value",
+    "productAge": 1,
+    "keyboardKeys": [],
+    "something": {
+        "newKey": "valuepairs"
+    }    
+    
+}
